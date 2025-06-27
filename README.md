@@ -67,18 +67,18 @@ You are ready to run the notebook (All the dependencies will be installed within
 ---
 
 ### Auto-Annotation Output (Segmentation + Labels)
-![Annotated Samples](results/preview_0.jpg)
-![Annotated Samples](results/preview_3.jpg)
-![Annotated Samples](results/preview_4.jpg)
-![Annotated Samples](results/preview_6.jpg)
-![Annotated Samples](results/preview_8.jpg)
+![Annotated Samples](Result/preview_0.jpg)
+![Annotated Samples](Result/preview_3.jpg)
+![Annotated Samples](Result/preview_4.jpg)
+![Annotated Samples](Result/preview_6.jpg)
+![Annotated Samples](Result/preview_8.jpg)
 
 ---
 
 ### YOLOv8 Inference on Video
-![YOLO Inference](results/OUTPUT_1.gif)
-![YOLO Inference](results/OUTPUT_2.gif)
-![YOLO Inference](results/OUTPUT_3.gif)
+![YOLO Inference](Result/OUTPUT_1.gif)
+![YOLO Inference](Result/OUTPUT_2.gif)
+![YOLO Inference](Result/OUTPUT_3.gif)
 
 ---
 
